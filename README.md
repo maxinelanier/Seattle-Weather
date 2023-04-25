@@ -6,4 +6,5 @@ Links to data: https://www.ncei.noaa.gov/cdo-web/search?datasetid=GHCND
 Analysis: Data sets were combined and cleaned in Data_Preparation_.ipynb by filling in missing values, selecting relevent subsets of the data, and deriving new variables. The resulting data set was used in analysis.ipynb to create charts that compare the amount of rain in inches and time spend raining between St. Louis and Seattle. 
 
 Author: Maxine Lanier
+
 Liscence: Anyone may use or share these files.
